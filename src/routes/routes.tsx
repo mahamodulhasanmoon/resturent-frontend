@@ -1,5 +1,4 @@
 import { createBrowserRouter } from "react-router-dom";
-import App from "../App";
 import Order from "../components/Order";
 import Table from "../components/Table";
 
